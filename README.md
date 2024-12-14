@@ -12,7 +12,7 @@ Cyber Risk Scenarios and Mitigation Plan (Excel File):
 
 Format: Excel sheet detailing risks, severity levels, and mitigation strategies.
 
-Download the Excel File here: 
+Download the Excel File here: https://github.com/Oyindollars/telehealth-cyber-risk-analysis/blob/main/Adeniyi%20Oyinkansola%20(Ass%204).xlsx
 
 
 Tools and Techniques Used
